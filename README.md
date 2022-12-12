@@ -1,3 +1,3 @@
 # C/Cpp 
 
-Practice exercises at university. 
+Practice exercises at HCMUT.
