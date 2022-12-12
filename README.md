@@ -1,3 +1,3 @@
-# C/Cpp Programing
+# C/Cpp 
 
-My C/C++ programs at HCMUT.
+Practice exercises at university.
